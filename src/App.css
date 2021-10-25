@@ -1,0 +1,9 @@
+.contenedor-general{
+  display: flex;
+  justify-content: space-between;
+}
+
+.MuiContainer-root container-pokemones MuiContainer-maxWidthLg{
+  display: flex;
+  justify-content: space-between;
+}

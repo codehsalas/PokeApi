@@ -1,0 +1,63 @@
+.container-pokemones{
+  display: flex;
+  justify-content: space-around;
+}
+
+.listado-pokemones{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid lightgray;
+  padding:40px;
+  border-radius:20px;
+  background-color:lightcyan;
+  -webkit-box-shadow: 0px -1px 16px 0px rgba(133,131,133,1);
+  -moz-box-shadow: 0px -1px 16px 0px rgba(133,131,133,1);
+  box-shadow: 0px -1px 16px 0px rgba(133,131,133,1);
+}
+.lista-pokemones{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.lista-pokemones li{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.detalles-pokemones{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #e0e0e0;
+  padding: 20px;
+  background-color: red;
+
+}
+
+.boton-detalle{
+  background-color: black;
+  border: none;
+  padding:10px;
+  width:100px;
+  color: white;
+  margin-left: 100px;
+  cursor: pointer;
+  margin: 5px;
+  border-radius:15px
+}
+
+.boton-detalle button{
+  margin-right: 10px;
+}
+
+.MuiButton-containedPrimary {
+    color: rgba(0, 0, 0, 0.87);
+    background-color: #aed581;
+    margin-right: 20px !important;
+}

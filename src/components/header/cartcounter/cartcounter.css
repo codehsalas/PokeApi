@@ -1,0 +1,6 @@
+.cart-counter{
+
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 45px;
+}
