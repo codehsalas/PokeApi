@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# POKEAPI PROJECT - REACT + REDUX + MATERUAL UI
+
+Development and design of a PokeApi consumption, using React, Redux and Material UI in the UI section.
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
